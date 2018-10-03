@@ -6,6 +6,8 @@ Further reading -
 
 https://ptgmedia.pearsoncmg.com/images/9780735676633/samplepages/9780735676633.pdf 
 
+https://github.com/transidai1705/javascript-ebooks/blob/master/%5BExam%20Ref%2070-480%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3%20(MCSD)%20Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3%20Kindle%20Edition%20by%20Rick%20Delorme%20-%202014%5D.pdf
+
 Review Chapter 1
 
 Objective 1.1
